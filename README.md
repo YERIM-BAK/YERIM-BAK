@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![YR's github stats](https://github-readme-stats.vercel.app/api?username=YERIM-BAK&show_icons=true)
-![YR's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YERIM-BAK&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YERIM-BAK)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=YERIM-BAK&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YERIM-BAK&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YERIM-BAK)
 </div>
