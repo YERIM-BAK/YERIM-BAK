@@ -9,9 +9,6 @@
 	💬 Ask me about ...<br/>
 	📫 How to reach me: ...<br/>
 </p>
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=YERIM-BAK&label=Profile%20views&color=blue&style=flat" alt="YERIM-BAK" />
-</div>
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
