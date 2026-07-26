@@ -1,36 +1,63 @@
-<h3 align="center">Hi there 👋</h3>
-
-
-<!--
-**YERIM-BAK/YERIM-BAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center" dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠 Tech Stack 🛠</h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GITHUB&logoColor=white" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=65&descSize=18" />
+
 </div>
 
+<h3 align="center">🙋‍♀️ About Me</h3>
 
+<p align="center">
+	🔭 I'm currently working on ...<br/>
+	🌱 I'm currently learning <b>React</b> & <b>TypeScript</b><br/>
+	👯 I'm looking to collaborate on ...<br/>
+	💬 Ask me about ...<br/>
+	📫 How to reach me: ...<br/>
+</p>
 
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  
-![YERIM-BAK's github stats](https://github-readme-stats.vercel.app/api?username=YERIM-BAK&show_icons=true)
-[![YERIM-BAK's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YERIM-BAK&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YERIM-BAK)
+	<img src="https://komarev.com/ghpvc/?username=YERIM-BAK&label=Profile%20views&color=blue&style=flat" alt="YERIM-BAK" />
+</div>
+
+<br/>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+</div>
+
+<br/>
+
+<h3 align="center">👩‍💻 My GitHub Stats 👩‍💻</h3>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YERIM-BAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YERIM-BAK&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![YERIM-BAK's streak](https://github-readme-streak-stats.herokuapp.com/?user=YERIM-BAK&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
