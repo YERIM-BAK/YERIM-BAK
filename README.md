@@ -6,7 +6,7 @@
 <h3 align="center">🙋‍♀️ About Me</h3>
 <p align="center">
   🔭 I'm currently working on <b>개인 프로젝트 및 프론트엔드 사이드 프로젝트</b><br/>
-  🌱 I'm currently learning <b>React</b>, <b>TypeScript</b> & TanStack Query<br/>
+  🌱 I'm currently learning <b>React</b>, <b>TypeScript</b>, TanStack Query & Zustand<br/>
   👯 I'm looking to collaborate on <b>사이드 프로젝트</b><br/>
 </p>
 
