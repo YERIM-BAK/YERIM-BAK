@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Yerim 👋</h1>
 <p align="center">Frontend Developer</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YERIM-BAK&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YERIM-BAK?style=flat-square&color=blueviolet" alt="followers" />
-</p>
-
 <br/>
 
 <h3 align="center">🙋‍♀️ About Me</h3>
