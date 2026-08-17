@@ -29,6 +29,8 @@
 
 <h3 align="center">👩‍💻 My GitHub Stats</h3>
 
+Total Commits: 1428
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YERIM-BAK&theme=default&hide_border=true" alt="YERIM-BAK's streak" />
 </p>
