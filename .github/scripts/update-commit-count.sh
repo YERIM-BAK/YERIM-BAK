@@ -20,11 +20,24 @@ total=0
 
 while :; do
   repos_json=$(curl -s -H "$AUTH_HEADER" "$API/user/repos?per_page=100&affiliation=owner&page=${page}")
-  repo_count=$(echo "$repos_json" | jq 'length')
+
+  # Safely determine repo_count: if response is an array, use its length; otherwise 0
+  repo_count=$(echo "$repos_json" | jq 'if (type == "array") then length else 0 end' 2>/dev/null || echo 0)
+  # Ensure repo_count is a plain integer (fallback to 0)
+  repo_count=${repo_count:-0}
+  # Remove possible quotes/whitespace
+  repo_count=$(echo "$repo_count" | tr -d '\r\n" ')
+
+  # If repo_count is not an integer or is 0, break
+  if ! [[ "$repo_count" =~ ^[0-9]+$ ]]; then
+    echo "Warning: repo_count is not an integer ('$repo_count'), treating as 0 and stopping."
+    break
+  fi
   if [ "$repo_count" -eq 0 ]; then
     break
   fi
 
+  # Loop over repos only when repo_count > 0
   for i in $(seq 0 $((repo_count-1))); do
     repo_name=$(echo "$repos_json" | jq -r ".[$i].name")
     owner_login=$(echo "$repos_json" | jq -r ".[$i].owner.login")
@@ -34,12 +47,6 @@ while :; do
 
     # contributions field is the number of commits attributed to the contributor
     contrib_count=$(echo "$contribs_json" | jq --arg user "$user" -r 'map(select(.login == $user))[0].contributions // 0')
-
-    # If contributor not found via login (e.g., commits with different email), try searching commits by author login (may be rate-limited)
-    if [ "$contrib_count" -eq 0 ]; then
-      # Optionally implement additional search here; skipping to avoid rate limits.
-      :
-    fi
 
     total=$((total + contrib_count))
   done
