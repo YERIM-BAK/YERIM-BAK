@@ -5,11 +5,9 @@
 
 <h3 align="center">🙋‍♀️ About Me</h3>
 <p align="center">
-  🔭 I'm currently working on <b>[프로젝트명을 입력하세요]</b><br/>
-  🌱 I'm currently learning <b>React</b> & <b>TypeScript</b><br/>
-  👯 I'm looking to collaborate on <b>[협업하고 싶은 분야]</b><br/>
-  💬 Ask me about <b>[관심 있는 주제]</b><br/>
-  📫 How to reach me: <b>[이메일 또는 연락 채널]</b><br/>
+  🔭 I'm currently working on <b>개인 프로젝트 및 프론트엔드 사이드 프로젝트</b><br/>
+  🌱 I'm currently learning <b>React</b>, <b>TypeScript</b> & TanStack Query<br/>
+  👯 I'm looking to collaborate on <b>사이드 프로젝트</b><br/>
 </p>
 
 <br/>
