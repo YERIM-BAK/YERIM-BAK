@@ -29,13 +29,6 @@
 
 <h3 align="center">👩‍💻 My GitHub Stats</h3>
 
-Total Commits: 1428
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=YERIM-BAK&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <br/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YERIM-BAK&layout=compact&theme=default&hide_border=true&count_private=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YERIM-BAK&theme=default&hide_border=true" alt="YERIM-BAK's streak" />
 </p>
