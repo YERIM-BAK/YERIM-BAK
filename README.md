@@ -28,6 +28,8 @@
 <br/>
 
 <h3 align="center">👩‍💻 My GitHub Stats</h3>
+
+Total Commits: 1428
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=YERIM-BAK&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <br/>
