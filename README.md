@@ -33,8 +33,6 @@
 <br/>
 
 <h3 align="center">👩‍💻 My GitHub Stats</h3>
-
-Total Commits: 1428
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=YERIM-BAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <br/>
@@ -42,5 +40,5 @@ Total Commits: 1428
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YERIM-BAK&theme=tokyonight&hide_border=true" alt="YERIM-BAK's streak" />
+  <img src="https://streak-stats.demolab.com/?user=YERIM-BAK&theme=tokyonight&hide_border=true" alt="YERIM-BAK's streak" />
 </p>
